@@ -1,0 +1,11 @@
+# For the web application and its dependencies
+gradio==4.36.1
+fastapi==0.111.0
+pydantic==2.7.4
+
+# For the machine learning model
+torch==2.3.0
+transformers==4.41.2
+
+# Other utilities
+numpy==1.26.4
